@@ -1,12 +1,12 @@
 # Dataset-Motif-Batik
 ***
 
-**kategori:** train, val, test
-**Label Motif:** kawung, megamendung, parang, siomukti, truntum
-**jumlah citra data train:** 2.800 
-**jumlah citra data val:** 700
-**jumlah citra data test:** 200
-**total citra:** 3.700
+* **kategori:** train, val, test
+* **Label Motif:** kawung, megamendung, parang, siomukti, truntum
+* **jumlah citra data train:** 2.800 
+* **jumlah citra data val:** 700
+* **jumlah citra data test:** 200
+* **total citra:** 3.700
 
 ## Deskripsi
 Dataset ini dikumpulkan dari kaggle, google search image, dan ada juga dari pengambilan citra langsung dengan menggunakan smartphone. Kemudian dilakukan preprocessing dengan beberapa proses. Pertama melakukan pemilihan citra sesuai dengan kebutuhan. Kedua membagi data menjadi data train, val, dan test. Ketiga melakukan resize untuk menyamakan ukuran citra menjadi 256x256 pixel.
