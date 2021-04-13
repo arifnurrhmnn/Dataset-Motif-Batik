@@ -13,7 +13,7 @@ Dataset ini dikumpulkan dari kaggle, google search image, dan ada juga dari peng
 
 Awalnya jumlah citra motif batik yang terkumpul hanya berjumlah 750 citra saja, namun kemudian dilakukan augmentasi data secara manual sehingga jumlah citra motif batik menjadi 3.700 citra. Augmentasi data dilakukan dengan membuat citra baru dari citra yang sudah ada. Citra yang terapat pada data train dan val dilakukan augmentasi dengan 3 kali crop terhadap sumbu x dan y, dan dilakukan 3 kali rotasi yaitu 90˚, 180˚ dan 270˚. Sedangkan citra yang terapat pada data test hanya dilakukan augmentasi dengan 3 kali rotasi yaitu 90˚, 180˚ dan 270˚
 
-## Struktur HTML
+## Struktur Direktori Dataset
 * dataset
   * test
     * original
